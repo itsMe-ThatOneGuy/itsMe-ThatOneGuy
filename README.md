@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsMe-ThatOneGuy
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on entry level JavaScript projects
+- 📫 How to reach me Email: matthewsmart13@gmail.com
