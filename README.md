@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @itsMe-ThatOneGuy
-- 👀 I’m interested in Web and Game Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on entry level JavaScript projects
-- 📫 How to reach me Email: matthewsmart13@gmail.com
+### Hi, I’m Matthew Smart 👻
+
+#### Web Developer @ TTEC | Freelance Developer
+
+![Static Badge](https://img.shields.io/badge/Linux-chroot-FCC624?logo=linux&logoColor=%23FCC624)
+![Static Badge](https://img.shields.io/badge/Arch-BTW-1793D1?logo=archlinux&logoColor=%231793D1) 
+![Static Badge](https://img.shields.io/badge/Neovim-Enjoyer-57A143?logo=neovim&logoColor=%2357A143)
+
+I started out with working in the Frontend, but quickly gained a passion for Backend development
+
+- 💻 Treading the seas of JavaScript for over 3 years
+- 🔰 Recent adoptor of Go
+- 🎮 Game jam competitor
